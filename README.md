@@ -1,4 +1,4 @@
-# Mixtures of SubExperts (MoSEs)
+# [Mixtures of SubExperts for Large Language Continual Learning](https://arxiv.org/abs/2511.06237)
 ## Mixtures of SubExperts (MoSEs): A Breakthrough in Continual Learning for LLMs
 
 Adapting Large Language Models (LLMs) to a continuous stream of tasks is challenging - especially due to catastrophic forgetting. Current PEFT (Parameter-Efficient Fine-Tuning) methods face a clear trade-off:
